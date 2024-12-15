@@ -1,0 +1,54 @@
+body{
+    background: rgb(252,231,210);
+    background: linear-gradient(0deg, rgba(252,231,210,1) 0%, rgba(192,206,170,1) 100%);
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+}
+
+p{
+    text-align: center;
+    font-size: 25px;
+}
+
+h1{
+    text-align: center;
+    font-size: 90px;
+    color: darkgreen;
+}
+
+h2{
+    text-align: center;
+    font-size: 45px;
+}
+
+/* asi se agregan comentarios, se activa con ctrl + } */
+.portada{
+    width: 250px;
+    border-radius: 50px;
+}
+
+.definicion{
+    width: 700px;
+    border-radius: 100px;
+}
+
+.aman{
+    color:darkcyan ;
+}
+
+.alimentacion{
+    color: darkgoldenrod;
+}
+
+.nav{
+    text-align: center;
+    font-size: 30px;
+}
+
+.imagen{
+    text-align: center;
+}
+
+.galeria{
+    color: darkolivegreen;
+}
